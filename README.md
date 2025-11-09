@@ -20,17 +20,6 @@ Pagina web basada en la serie Friends, utilizando su estilo visual e imágenes i
 -Git + GitHub
 -VS Code + Live Server
 
-📁 Estructura del proyecto
-Landing-page/
-├── index.html
-├── CSS/
-│   ├── estilos.css
-│   └── normalize.css
-├── js/
-│   └── app.js
-└── Images/
-    └── ...
-
 
 🎯 Objetivo del proyecto
 
